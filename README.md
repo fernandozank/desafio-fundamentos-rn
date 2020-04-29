@@ -3,7 +3,7 @@
 </h1>
 <br />
 
-<div style="text-align:center">
+<div style="text-align: center">
   <img src="src/assets/GoMarket.gif" style="width: 35%;">
 </div>
 
@@ -12,7 +12,7 @@
 ## 💬 Sobre
 Aplicação que simula um market place, baseada no desafio 08 do **Bootcamp GoStack 11**, com o intuito de aprender os <u>fundamentos de hooks</u> do React-Native.
 
-## :hammer_and_wrench: Tecnologias principais utilizadas:
+## :hammer_and_wrench: Tecnologias principais utilizadas
 <ul>
   <li>
   react<br>

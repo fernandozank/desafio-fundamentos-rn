@@ -10,7 +10,7 @@
 
 
 ## 💬 Sobre
-Aplicação que simula um market place, baseada no desafio 08 do **Bootcamp GoStack 11**, com o intuito de aprender os <u>fundamentos de hooks</u> do React-Native.
+Aplicação que simula um market place, baseada no desafio 08 do **Bootcamp GoStack 11**, com o intuito de fixar o conteúdo sobre <u>fundamentos de hooks</u> do React-Native.
 
 ## :hammer_and_wrench: Tecnologias principais utilizadas
 <ul>
